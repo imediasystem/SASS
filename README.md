@@ -10,3 +10,7 @@ See the live version of [SASS](https://imediasystem.github.io/SASS/) ↗️
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SASS](https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 &nbsp;
+
+## 💿 Installation
+Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
+&nbsp;
