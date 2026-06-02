@@ -3,6 +3,9 @@
 Are you looking for a professional website that attracts customers without the hassle of complex technical management? I create modern SASS-based sites that combine lightning-fast performance with top-tier security and effortless content editing. Invest in a proven solution that lets you grow your business while I handle the servers and updates for you.
 
 ## 🔥 Project Name - SASS
+
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/Klinika/)
+
 See the live version of [SASS](https://imediasystem.github.io/SASS/) ↗️
 
 ## 🛠 Technologies / Frameworks / Platforms / Libraries
