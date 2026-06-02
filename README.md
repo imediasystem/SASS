@@ -4,7 +4,7 @@ Are you looking for a professional website that attracts customers without the h
 
 ## 🔥 Project Name - SASS
 
-[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/Klinika/)
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/SASS/)
 
 See the live version of [SASS](https://imediasystem.github.io/SASS/) ↗️
 
