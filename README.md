@@ -6,8 +6,6 @@ Are you looking for a professional website that attracts customers without the h
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/SASS/)
 
-See the live version of [SASS](https://imediasystem.github.io/SASS/) ↗️
-
 ## 🛠 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
